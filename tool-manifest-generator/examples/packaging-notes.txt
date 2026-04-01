@@ -1,0 +1,8 @@
+Validation command:
+python C:\Users\bilgu\npm-global\node_modules\openclaw\skills\skill-creator\scripts\quick_validate.py C:\Users\bilgu\.openclaw\workspace\skills\tool-manifest-generator
+
+Packaging command:
+$env:PYTHONPATH='C:\Users\bilgu\npm-global\node_modules\openclaw\skills\skill-creator\scripts'; python C:\Users\bilgu\npm-global\node_modules\openclaw\skills\skill-creator\scripts\package_skill.py C:\Users\bilgu\.openclaw\workspace\skills\tool-manifest-generator C:\Users\bilgu\.openclaw\workspace\dist
+
+Built artifact:
+C:\Users\bilgu\.openclaw\workspace\dist\tool-manifest-generator.skill

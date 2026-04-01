@@ -1,0 +1,2 @@
+Summarize the permission and risk posture of my OpenClaw setup.
+Tell me what is safe/internal, what should stay approval-gated, what is externally risky, and the single best hardening step.

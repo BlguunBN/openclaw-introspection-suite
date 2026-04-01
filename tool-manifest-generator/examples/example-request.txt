@@ -1,0 +1,3 @@
+Generate a capability report for my OpenClaw setup.
+Focus on available tools, approval/risk boundaries, useful skills, active runtime/session shape, and the best next improvement.
+Keep it concise and practical.
